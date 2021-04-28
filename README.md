@@ -14,4 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
-https://dev.azure.com/tguney041977/calculator/_apis/build/status/tguney.calculator%20(1)?branchName=master
+[![Build Status](https://dev.azure.com/tguney041977/calculator/_apis/build/status/tguney.calculator%20(1)?branchName=master)]
